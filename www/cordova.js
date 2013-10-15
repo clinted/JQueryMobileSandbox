@@ -6909,7 +6909,7 @@ require('cordova/channel').onNativeReady.fire();
         } catch(err){
             finishPluginLoading();
         }
-    } 
+    };
 
 
     // Try to XHR the cordova_plugins.json file asynchronously.
