@@ -4112,7 +4112,7 @@ module.exports = {
 
 });
 
-// file: lib/android/plugin/android/notification.js
+// file: lib/android/plugin/android/notification.ts
 define("cordova/plugin/android/notification", function(require, exports, module) {
 
 var exec = require('cordova/exec');
@@ -4193,7 +4193,7 @@ module.exports = {
 
 });
 
-// file: lib/android/plugin/android/storage.js
+// file: lib/android/plugin/android/storage.ts
 define("cordova/plugin/android/storage", function(require, exports, module) {
 
 var utils = require('cordova/utils'),
@@ -6280,7 +6280,7 @@ modulemapper.defaults('cordova/plugin/Connection', 'Connection');
 
 });
 
-// file: lib/common/plugin/notification.js
+// file: lib/common/plugin/notification.ts
 define("cordova/plugin/notification", function(require, exports, module) {
 
 var exec = require('cordova/exec');

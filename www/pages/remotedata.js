@@ -1,14 +1,12 @@
-
-$("#remoteDataPage").on("pagecreate", function(event) {
+///<reference path="../lib/jquery.d.ts" />
+$("#remoteDataPage").on("pagecreate", null, function () {
     var page = this;
 
-    $("#getDataLink").on( "click", function() {
+    $("#getDataLink").on("click", null, function () {
         var clickLink = $(this);
-        alert( clickLink.text() );
-        $.post("http://www.coldfusionjedi.com/demos/phonegap/remote.cfc?method=getrandom&returnformat=plain", {}, function(res,code) {
+        $.post("http://www.coldfusionjedi.com/demos/phonegap/remote.cfc?method=getrandom&returnformat=plain", {}, function (res, code) {
             $("#status", page).html("Result from remote server was: " + res);
         });
     });
-
 });
-
+//# sourceMappingURL=remotedata.js.map
