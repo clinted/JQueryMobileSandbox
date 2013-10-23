@@ -4,6 +4,7 @@
       <sourceFilesUrls>
         <item url="file://$PROJECT_DIR$/www/pages/remotedata.js" />
         <item url="file://$PROJECT_DIR$/www/pages/storage.js" />
+        <item url="file://$PROJECT_DIR$/www/pages/login.js" />
         <item url="file://$PROJECT_DIR$/www/index.js" />
         <item url="file://$PROJECT_DIR$/www/pages/notification.js" />
       </sourceFilesUrls>
@@ -11,6 +12,7 @@
     <CLASSES>
       <root url="file://$PROJECT_DIR$/www/pages/remotedata.js" />
       <root url="file://$PROJECT_DIR$/www/pages/storage.js" />
+      <root url="file://$PROJECT_DIR$/www/pages/login.js" />
       <root url="file://$PROJECT_DIR$/www/index.js" />
       <root url="file://$PROJECT_DIR$/www/pages/notification.js" />
     </CLASSES>
