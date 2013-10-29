@@ -1,5 +1,6 @@
 ///<reference path="../lib/jquery.d.ts" />
 ///<reference path="../lib/jquery.mobile.d.ts" />
+///<reference path="../services/authservice.ts" />
 
 module LoginPage {
     var page,
@@ -24,15 +25,16 @@ module LoginPage {
     } );
 
     function loginClick() {
-        //        var username = $("#userNameInput").val();
-        //        var password = $("#passwordInput").val();
-        //        alert( username + " : " + password );
-        //        $.mobile.changePage("../index.html");
+        var username = $userNameInput.val().trim();
+        var password = $passwordInput.val().trim();
         var url = "http://webopenauthtest.azurewebsites.net/api/products/1";
+        AuthService.Login();
+        var retVal = AuthService.CallServer();
         $.getJSON( url )
             .done( function( data ) {
                 // On success, 'data' contains a list of products.
                 $resultDiv.html( "Success!" );
+                //        $.mobile.changePage("../index.html");
             })
             .fail( function(result) {
                 $resultDiv.html( "Logon Failed!" );

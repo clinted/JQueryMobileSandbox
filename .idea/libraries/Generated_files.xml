@@ -6,6 +6,7 @@
         <item url="file://$PROJECT_DIR$/www/pages/storage.js" />
         <item url="file://$PROJECT_DIR$/www/pages/login.js" />
         <item url="file://$PROJECT_DIR$/www/index.js" />
+        <item url="file://$PROJECT_DIR$/www/services/AuthService.js" />
         <item url="file://$PROJECT_DIR$/www/pages/notification.js" />
       </sourceFilesUrls>
     </properties>
@@ -15,6 +16,7 @@
       <root url="file://$PROJECT_DIR$/www/pages/login.js" />
       <root url="file://$PROJECT_DIR$/www/index.js" />
       <root url="file://$PROJECT_DIR$/www/pages/notification.js" />
+      <root url="file://$PROJECT_DIR$/www/services/authservice.js" />
     </CLASSES>
     <SOURCES />
   </library>
