@@ -1,17 +1,32 @@
 ///<reference path="../lib/jquery.d.ts" />
 ///<reference path="../lib/jquery.mobile.d.ts" />
-$("#storagePage").on("pagecreate", null, function () {
-    $(this).on("pageinit", null, function () {
-        var personName = window.localStorage.getItem("personName");
-        if (personName != null) {
-            $("#name").val(personName);
-        }
+var StoragePage;
+(function (StoragePage) {
+    // Control references
+    var $page, $saveButton, $nameInput;
+
+    $("#storagePage").on("pagecreate", null, function () {
+        // Get controls
+        $page = $(this);
+        $nameInput = $("#name");
+        $saveButton = $("#saveButton", this);
+
+        // Attach event handlers
+        $page.on("pageinit", null, pageInit);
+        $saveButton.on("click", null, saveClick);
     });
 
-    $("#saveButton", this).on("click", null, function () {
-        var inputName = $("#name").val();
+    function pageInit() {
+        var personName = window.localStorage.getItem("personName");
+        if (personName != null) {
+            $nameInput.val(personName);
+        }
+    }
+
+    function saveClick() {
+        var inputName = $nameInput.val();
         window.localStorage.setItem("personName", inputName);
         $.mobile.changePage("../index.html");
-    });
-});
+    }
+})(StoragePage || (StoragePage = {}));
 //# sourceMappingURL=storage.js.map

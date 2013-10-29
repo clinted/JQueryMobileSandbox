@@ -1,12 +1,25 @@
 ///<reference path="../lib/jquery.d.ts" />
-$("#remoteDataPage").on("pagecreate", null, function () {
-    var page = this;
+var RemoteDataPage;
+(function (RemoteDataPage) {
+    $("#remoteDataPage").on("pagecreate", null, function () {
+        var page = this;
 
-    $("#getDataLink").on("click", null, function () {
-        var clickLink = $(this);
-        $.post("http://www.coldfusionjedi.com/demos/phonegap/remote.cfc?method=getrandom&returnformat=plain", {}, function (res, code) {
-            $("#status", page).html("Result from remote server was: " + res);
+        $("#getDataButton").on("click", null, function () {
+            // Disable the button before making the call
+            var getDataButton = $(this);
+            getDataButton.prop("disabled", true);
+
+            // Make the call to server
+            var statusDiv = $("#status", page);
+            $.post("http://www.coldfusionjedi.com/demos/phonegap/remote.cfc?method=getrandom&returnformat=plain").done(function (res) {
+                statusDiv.html("Result from remote server was: " + res);
+            }).fail(function (res) {
+                statusDiv.html("Call to server failed.");
+            });
+
+            // Enable the button again
+            getDataButton.prop("disabled", false);
         });
     });
-});
+})(RemoteDataPage || (RemoteDataPage = {}));
 //# sourceMappingURL=remotedata.js.map

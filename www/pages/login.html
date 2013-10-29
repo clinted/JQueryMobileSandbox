@@ -5,24 +5,18 @@
     </div>
 
     <div data-role="content">
-
-        <div data-role="fieldcontain">
-            <label for="userNameInput">
-                User Name:
-            </label>
-            <input name="username" id="userNameInput" placeholder="username" value="" type="text">
-        </div>
-        <div data-role="fieldcontain">
-            <label for="passwordInput">
-                Password:
-            </label>
-            <input name="password" id="passwordInput" placeholder="password" value="" type="password">
-        </div>
-        <a id="loginButton" href="" data-role="button">Login</a>
-
+        <h3 id="login-header">Enter your login credentials:</h3>
         <div>
-            <h2>All Products</h2>
-            <ul id="products"></ul>
+            <input id="userNameInput" name="username" placeholder="username" value="" type="text">
+            <input id="passwordInput" name="password" placeholder="password" value="" type="password">
+        </div>
+        <div class="buttons">
+            <div id="button-area" data-role="controlgroup" data-type="horizontal">
+                <button id="loginButton" data-icon="check" data-theme="b">Login</button>
+                <button id="loginResetButton" data-icon="delete">Reset</button>
+            </div>
+        </div>
+        <div>
             <div id="result"></div>
         </div>
     </div>
