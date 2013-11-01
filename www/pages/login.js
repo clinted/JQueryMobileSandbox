@@ -1,5 +1,5 @@
-///<reference path="../lib/jquery.d.ts" />
-///<reference path="../lib/jquery.mobile.d.ts" />
+///<reference path="../libs/jquery.d.ts" />
+///<reference path="../libs/jquery.mobile.d.ts" />
 ///<reference path="../services/authservice.ts" />
 var LoginPage;
 (function (LoginPage) {

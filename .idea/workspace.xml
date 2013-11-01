@@ -5,7 +5,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ba907c07-a751-4fbc-bf31-dccd3ce88a1c" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/app.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/app.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/core/config.ts" />
+      <change type="DELETED" beforePath="C:\GitHub-clinted\JQueryMobileSandbox\www\index.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\GitHub-clinted\JQueryMobileSandbox\www\index.js.map" afterPath="" />
+      <change type="DELETED" beforePath="C:\GitHub-clinted\JQueryMobileSandbox\www\index.ts" afterPath="" />
+      <change type="MOVED" beforePath="C:\GitHub-clinted\JQueryMobileSandbox\www\lib\jquery-2.0.3.js" afterPath="$PROJECT_DIR$/www/libs/jquery-2.0.3.js" />
+      <change type="MOVED" beforePath="C:\GitHub-clinted\JQueryMobileSandbox\www\lib\jquery.d.ts" afterPath="$PROJECT_DIR$/www/libs/jquery.d.ts" />
+      <change type="MOVED" beforePath="C:\GitHub-clinted\JQueryMobileSandbox\www\lib\jquery.mobile-1.3.2.js" afterPath="$PROJECT_DIR$/www/libs/jquery.mobile-1.3.2.js" />
+      <change type="MOVED" beforePath="C:\GitHub-clinted\JQueryMobileSandbox\www\lib\jquery.mobile-config.js" afterPath="$PROJECT_DIR$/www/libs/jquery.mobile-config.js" />
+      <change type="MOVED" beforePath="C:\GitHub-clinted\JQueryMobileSandbox\www\lib\jquery.mobile.d.ts" afterPath="$PROJECT_DIR$/www/libs/jquery.mobile.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Generated_files.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Generated_files.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/index.html" afterPath="$PROJECT_DIR$/www/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/pages/login.html" afterPath="$PROJECT_DIR$/www/pages/login.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/pages/login.js.map" afterPath="$PROJECT_DIR$/www/pages/login.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/pages/login.js" afterPath="$PROJECT_DIR$/www/pages/login.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/pages/login.ts" afterPath="$PROJECT_DIR$/www/pages/login.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/pages/notification.js.map" afterPath="$PROJECT_DIR$/www/pages/notification.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/pages/notification.js" afterPath="$PROJECT_DIR$/www/pages/notification.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/pages/notification.ts" afterPath="$PROJECT_DIR$/www/pages/notification.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/pages/remotedata.js.map" afterPath="$PROJECT_DIR$/www/pages/remotedata.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/pages/remotedata.js" afterPath="$PROJECT_DIR$/www/pages/remotedata.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/pages/remotedata.ts" afterPath="$PROJECT_DIR$/www/pages/remotedata.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/pages/storage.js.map" afterPath="$PROJECT_DIR$/www/pages/storage.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/pages/storage.js" afterPath="$PROJECT_DIR$/www/pages/storage.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/pages/storage.ts" afterPath="$PROJECT_DIR$/www/pages/storage.ts" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="JQueryMobileSandbox.iws" />
@@ -32,16 +58,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/www/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="49" selection-start="567" selection-end="567" vertical-scroll-proportion="0.31914893" vertical-offset="0" max-vertical-offset="1054">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.ts" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/index.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="0" selection-start="311" selection-end="311" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="340">
+            <state line="44" column="18" selection-start="1457" selection-end="1457" vertical-scroll-proportion="0.75875" vertical-offset="141" max-vertical-offset="1054">
               <folding />
             </state>
           </provider>
@@ -70,22 +87,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/www/pages/storage.js" />
-        <option value="$PROJECT_DIR$/www/pages/notification.html" />
         <option value="$PROJECT_DIR$/www/lib/jquery.d.ts" />
         <option value="$PROJECT_DIR$/www/pages/storage.html" />
         <option value="$PROJECT_DIR$/www/lib/jquerymobile.d.ts" />
-        <option value="$PROJECT_DIR$/www/pages/notification.ts" />
         <option value="$PROJECT_DIR$/www/pages/remotedata.html" />
-        <option value="$PROJECT_DIR$/www/pages/remotedata.ts" />
-        <option value="$PROJECT_DIR$/www/pages/storage.ts" />
         <option value="$PROJECT_DIR$/www/services/authservice.ts" />
-        <option value="$PROJECT_DIR$/www/pages/login.ts" />
         <option value="$PROJECT_DIR$/www/services/Log.ts" />
         <option value="$PROJECT_DIR$/www/services/log.ts" />
-        <option value="$PROJECT_DIR$/www/index.ts" />
         <option value="$PROJECT_DIR$/www/pages/login.html" />
         <option value="$PROJECT_DIR$/www/index.html" />
+        <option value="$PROJECT_DIR$/www/pages/remotedata.ts" />
+        <option value="$PROJECT_DIR$/www/pages/login.ts" />
+        <option value="$PROJECT_DIR$/www/pages/notification.ts" />
+        <option value="$PROJECT_DIR$/www/pages/storage.ts" />
+        <option value="$PROJECT_DIR$/www/core/app.ts.js" />
+        <option value="$PROJECT_DIR$/www/index.ts" />
+        <option value="$PROJECT_DIR$/www/app.ts" />
       </list>
     </option>
   </component>
@@ -142,6 +159,42 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JQueryMobileSandbox" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JQueryMobileSandbox" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="services" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JQueryMobileSandbox" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JQueryMobileSandbox" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -150,13 +203,13 @@
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="recentsLimit" value="5" />
     <property name="options.lastSelected" value="preferences.sourceCode.General" />
+    <property name="recentsLimit" value="5" />
     <property name="restartRequiresConfirmation" value="true" />
     <property name="FullScreen" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -164,14 +217,6 @@
     </key>
   </component>
   <component name="RunManager" selected="JavaScript Debug.index.html">
-    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
-      <option name="VMOptions" />
-      <option name="arguments" />
-      <option name="filePath" />
-      <option name="scope" value="ALL" />
-      <option name="testName" />
-      <method />
-    </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <option name="VMOptions" />
       <option name="arguments" />
@@ -180,6 +225,14 @@
       <option name="saveOutputToFile" value="false" />
       <option name="showConsoleOnStdErr" value="false" />
       <option name="showConsoleOnStdOut" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
       <method />
     </configuration>
     <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
@@ -254,7 +307,11 @@
       <created>1383167485832</created>
       <updated>1383167485832</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Comments about loading framework libraries">
+      <created>1383167840633</created>
+      <updated>1383167840633</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -279,23 +336,23 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="393" y="0" width="1754" height="1440" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.21056782" sideWeight="0.49912435" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.21687697" sideWeight="0.49968374" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.19716088" sideWeight="0.49968374" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329653" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32886437" sideWeight="0.49912435" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23058961" sideWeight="0.6727129" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23779528" sideWeight="0.49912435" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23058961" sideWeight="0.67350155" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2373817" sideWeight="0.49912435" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32728708" sideWeight="0.50087565" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32677165" sideWeight="0.7011092" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32649842" sideWeight="0.29889083" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32649842" sideWeight="0.7011092" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32886437" sideWeight="0.49912435" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.21056782" sideWeight="0.49912435" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.22397476" sideWeight="0.49968374" order="5" side_tool="false" content_ui="tabs" />
@@ -314,14 +371,15 @@
     <MESSAGE value="Stubbed out authorizationservice client." />
     <MESSAGE value="Added missing js files." />
     <MESSAGE value="Refactored project structure" />
-    <option name="LAST_COMMIT_MESSAGE" value="Refactored project structure" />
+    <MESSAGE value="Comments about loading framework libraries" />
+    <option name="LAST_COMMIT_MESSAGE" value="Comments about loading framework libraries" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/www/index.js</url>
-          <line>13</line>
+          <url>file://$PROJECT_DIR$/www/app.js</url>
+          <line>21</line>
           <option name="timeStamp" value="31" />
         </line-breakpoint>
       </breakpoints>
@@ -329,78 +387,9 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/www/pages/remotedata.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="37" selection-start="590" selection-end="590" vertical-scroll-proportion="0.27991217" vertical-offset="0" max-vertical-offset="911" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/pages/storage.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="46" selection-start="360" selection-end="360" vertical-scroll-proportion="0.22392975" vertical-offset="0" max-vertical-offset="911" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/cordova.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5109" column="0" selection-start="161190" selection-end="161190" vertical-scroll-proportion="0.6054254" vertical-offset="86345" max-vertical-offset="118184" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/pages/login.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="49" selection-start="92" selection-end="92" vertical-scroll-proportion="0.020581113" vertical-offset="0" max-vertical-offset="826" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/services/authservice.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="826" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="0" selection-start="341" selection-end="341" vertical-scroll-proportion="0.14389358" vertical-offset="0" max-vertical-offset="827">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/core/log.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="17" selection-start="26" selection-end="26" vertical-scroll-proportion="0.020606061" vertical-offset="0" max-vertical-offset="884">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/pages/remotedata.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="51" selection-start="918" selection-end="918" vertical-scroll-proportion="0.5151515" vertical-offset="0" max-vertical-offset="825">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/services/authservice.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="18" selection-start="389" selection-end="389" vertical-scroll-proportion="0.39151517" vertical-offset="0" max-vertical-offset="825">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/pages/storage.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="697">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/www/pages/credits.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="0" selection-start="347" selection-end="347" vertical-scroll-proportion="0.34042552" vertical-offset="0" max-vertical-offset="799">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/pages/login.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="19" selection-start="294" selection-end="294" vertical-scroll-proportion="0.16484849" vertical-offset="0" max-vertical-offset="918">
-          <folding />
-        </state>
+        <state line="16" column="0" selection-start="347" selection-end="347" vertical-scroll-proportion="0.34042552" vertical-offset="0" max-vertical-offset="799" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/www/pages/login.html">
@@ -410,23 +399,103 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/core/log.ts">
+    <entry file="file://$PROJECT_DIR$/www/pages/remotedata.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="8" selection-start="9" selection-end="9" vertical-scroll-proportion="0.020606061" vertical-offset="0" max-vertical-offset="825">
+        <state line="15" column="37" selection-start="590" selection-end="590" vertical-scroll-proportion="-9.807693" vertical-offset="0" max-vertical-offset="510">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/index.ts">
+    <entry file="file://$PROJECT_DIR$/www/cordova_plugins.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="0" selection-start="311" selection-end="311" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="340">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="826">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/pages/storage.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="20" selection-start="116" selection-end="116" vertical-scroll-proportion="0.0543131" vertical-offset="0" max-vertical-offset="939">
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/pages/remotedata.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="19" selection-start="706" selection-end="706" vertical-scroll-proportion="0.34398296" vertical-offset="0" max-vertical-offset="939">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/pages/notification.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="27" selection-start="27" selection-end="27" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="826">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="0" selection-start="207" selection-end="207" vertical-scroll-proportion="0.22639225" vertical-offset="0" max-vertical-offset="826">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/core/config.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="939">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/pages/login.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="18" selection-start="165" selection-end="165" vertical-scroll-proportion="0.08232445" vertical-offset="0" max-vertical-offset="952">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/libs/jquery-2.0.3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="544" column="0" selection-start="13901" selection-end="13901" vertical-scroll-proportion="0.37884378" vertical-offset="8736" max-vertical-offset="149991">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/core/log.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="8" selection-start="9" selection-end="9" vertical-scroll-proportion="0.020581113" vertical-offset="0" max-vertical-offset="826">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="0" selection-start="472" selection-end="472" vertical-scroll-proportion="0.43220338" vertical-offset="0" max-vertical-offset="826">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/cordova.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="14" selection-start="957" selection-end="957" vertical-scroll-proportion="0.5645757" vertical-offset="0" max-vertical-offset="118201">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/www/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="49" selection-start="567" selection-end="567" vertical-scroll-proportion="0.31914893" vertical-offset="0" max-vertical-offset="1054">
+        <state line="44" column="18" selection-start="1457" selection-end="1457" vertical-scroll-proportion="0.75875" vertical-offset="141" max-vertical-offset="1054">
           <folding />
         </state>
       </provider>

@@ -1,4 +1,4 @@
-///<reference path="../lib/jquery.d.ts" />
+///<reference path="../libs/jquery.d.ts" />
 var RemoteDataPage;
 (function (RemoteDataPage) {
     $("#remoteDataPage").on("pagecreate", null, function () {
